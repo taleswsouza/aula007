@@ -25,7 +25,7 @@ Apesar de não ser possível criar objetos a partir de uma classe abstrata, esta
 
 1. Herança com o uso de abstrações (este será o seu uso básico)
 
-**Exemplo: **
+**Exemplo:**
 ```java
 abstract class Animal { }
 class Cachorro extends Animal { }
@@ -35,7 +35,7 @@ Cachorro cachorro = new Cachorro();
 
 2. Criando e usando abstrações
 
-**Exemplo: **
+**Exemplo:**
 ```java
 abstract class Animal { }
 class Cachorro extends Animal { }
@@ -48,7 +48,7 @@ animal = new Cavalo();
 
 3. Criando métodos comuns às classes filhas
 
-**Exemplo: **
+**Exemplo:**
 ```java
 abstract class Animal {
 	public void imprime() {
@@ -67,11 +67,11 @@ animal.imprime();
 
 3. Criando métodos ABSTRATOS que DEVERÃO ser implementados nas classes filhas
 
-* Métodos abstrados não tem corpo, ou seja, não tem código (significa que termina com "**;**" após os parentesis da função - ```abstract void func();```).
-* Métodos abstrados não só podem existir em classes abstratas.
-* Métodos abstrados em classes que não são abstratas (sem a palavra reservada ```abstract```) gera erro de compilação.
+* Métodos abstratos não tem corpo, ou seja, não tem código (significa que termina com "**;**" após os parêntesis da função - ```abstract void func();```).
+* Métodos abstratos não só podem existir em classes abstratas.
+* Métodos abstratos em classes que não são abstratas (sem a palavra reservada ```abstract```) gera erro de compilação.
 
-**Exemplo: **
+**Exemplo:**
 ```java
 abstract class Animal {
 	public abstract void imprime();
