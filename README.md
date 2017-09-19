@@ -65,7 +65,7 @@ animal = new Cavalo();
 animal.imprime();
 ```
 
-3. Criando métodos ABSTRATOS que DEVERÃO ser implementados nas classes filhas
+4. Criando métodos ABSTRATOS que DEVERÃO ser implementados nas classes filhas
 
 * Métodos abstratos não tem corpo, ou seja, não tem código (significa que termina com "**;**" após os parêntesis da função - ```abstract void func();```).
 * Métodos abstratos não só podem existir em classes abstratas.
