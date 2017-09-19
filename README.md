@@ -100,5 +100,5 @@ Vamos ajustar as classes do exemplo do pacote ```com.aula.heranca.pessoa``` das 
 
 #### Exercício com o exemplo do **livro** (parte final da página 130 até página 132)
 
-Siga os procedimentos do livro, na parte final da página 130 (penúltimo parágrafo da página 130 - "Uma classe abstrata pode ser usada ...") e no início da página 132 (último parágrafo do item 7.14 da página 132 - "Como você viu, uma classe abstrata funciona como um modelo ...")
+Siga os procedimentos do livro, começando na parte final da página 130 (penúltimo parágrafo da página 130 - "Uma classe abstrata pode ser usada ...") até o início da página 132 (último parágrafo do item 7.14 na página 132 - "Como você viu, uma classe abstrata funciona como um modelo ...")
 
